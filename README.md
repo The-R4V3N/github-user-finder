@@ -35,7 +35,6 @@ This repository contains a Github user finder made in React
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Future of the project](#future)
 
 ## Features
 
@@ -104,10 +103,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 ## License
 
 This project is licensed under the MIT License. Feel free to use and modify the code according to the terms of the license.
-
-## Future
-
- In the forthcoming era, this clone will embody enhanced proficiencies in image editing, thereby augmenting its professional functionality to new heights. Furthermore, the incorporation of a dark theme might be considered to provide a visually sophisticated experience.
   
 - 👨‍💻 All about me is at [My Website](https://www.oliver-joisten.se/)
 
