@@ -25,6 +25,7 @@
 ## github-user-finder
 
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Lines of code](https://tokei.rs/b1/github/The-R4V3N/github-user-finder)
 
 This repository contains a Github user finder made in React
   
